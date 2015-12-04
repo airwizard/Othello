@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Othello</string>
+    <string name="action_new">New Game</string>
+    <string name="action_retract">Retract</string>
+    <string name="action_hint_on">Hint On</string>
+    <string name="action_hint_off">Hint Off</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="all_rights_reserved">Copyright © 2015 - 2016 HKU. All Rights Reserved.</string>
+    <string name="login_name_tag">Candidate Name:</string>
+    <string name="login_uid_tag">University Number:</string>
+    <string name="login_name_value">Wang Dazhi</string>
+    <string name="login_uid_value">3035237664</string>
+    <string name="login_start_game">Start Game</string>
+</resources>
